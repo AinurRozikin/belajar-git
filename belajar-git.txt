@@ -1,2 +1,3 @@
 ini adalah langkah awal dari saya untuk menjadi seorang web developer
 ini normal
+contoh error
