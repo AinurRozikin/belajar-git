@@ -1,2 +1,2 @@
 ini adalah langkah awal dari saya untuk menjadi seorang web developer
-contoh error pada commit
+ini normal
